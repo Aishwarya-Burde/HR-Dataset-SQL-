@@ -3,11 +3,12 @@ SQL Project
 
 💼 HR Dataset SQL Analysis Project
 
-    This project showcases the end-to-end analysis of an HR dataset using SQL. The analysis aims to extract meaningful insights about employees, organizational structure, performance, and attrition using SQL queries on structured data.
+    This project showcases the end-to-end analysis of an HR dataset using SQL. 
+    The analysis aims to extract meaningful insights about employees, organizational structure, performance, and attrition using SQL queries on structured data.
 
 📌 Project Overview
 
-    Dataset Source: Employee dataset stored in SQL (uploaded and structured into employees table).
+    Dataset Source: Employee dataset stored in SQL
 
 Database Used: MySQL
 
